@@ -1,6 +1,7 @@
 ![Version](https://img.shields.io/badge/version-0.0.3-orange.svg)
 ![Test](https://github.com/mrtkmynsndev/stringutils-demo/actions/workflows/go.yml/badge.svg)
 ![Go](https://img.shields.io/github/go-mod/go-version/mrtkmynsndev/stringutils-demo)
+![MIT License](https://img.shields.io/github/license/mrtkmynsndev/stringutils-demo)
 [![Documentation](https://godoc.org/github.com/mrtkmynsndev/stringutils-demo?status.svg)](https://pkg.go.dev/github.com/mrtkmynsndev/stringutils-demo)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mrtkmynsndev/stringutils-demo)](https://goreportcard.com/report/github.com/mrtkmynsndev/stringutils-demo)
 
