@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-0.0.2-orange.svg)
+![Version](https://img.shields.io/badge/version-0.0.3-orange.svg)
 ![Test](https://github.com/mrtkmynsndev/stringutils-demo/actions/workflows/go.yml/badge.svg)
 ![Go](https://img.shields.io/github/go-mod/go-version/mrtkmynsndev/stringutils-demo)
 [![Documentation](https://godoc.org/github.com/mrtkmynsndev/stringutils-demo?status.svg)](https://pkg.go.dev/github.com/mrtkmynsndev/stringutils-demo)
