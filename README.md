@@ -37,8 +37,8 @@ import (
 )
 
 func main(){
-	reversed := stringutils.Reverse("vigo")
-	fmt.Println(reversed) // ogiv
+	reversed := stringutils.Reverse("mert")
+	fmt.Println(reversed) // trem
 }
 ```
 
